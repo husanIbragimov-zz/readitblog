@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/xusan/PycharmProjects/NewReadIt/venv'
+VIRTUAL_ENV='/home/xusandev/Templates/ProgrammingProjects/PycharmProjects/Git/ReadIt-Blog-site/venv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

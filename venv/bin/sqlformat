@@ -1,4 +1,4 @@
-#!/home/xusan/PycharmProjects/NewReadIt/venv/bin/python
+#!/home/xusandev/Templates/ProgrammingProjects/PycharmProjects/Git/ReadIt-Blog-site/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
